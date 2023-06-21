@@ -1,0 +1,6 @@
+edu\ups\ec\estructura\sistema\java\modelo\VentaModel.class
+edu\ups\ec\estructura\sistema\java\vista\TiendaView.class
+edu\ups\ec\estructura\sistema\java\controlador\TiendaController.class
+edu\ups\ec\estructura\sistema\java\modelo\InventarioModelo.class
+edu\ups\ec\estructura\sistema\java\modelo\Producto.class
+edu\ups\ec\estructura\sistema\java\Main\EstructuraSistemaJava.class
